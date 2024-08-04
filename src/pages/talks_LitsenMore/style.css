@@ -79,38 +79,38 @@ margin-left: 2rem;
 
 }
 @media screen and (max-width: 440px){
-    .card{
+    .card11{
         width: 95%;
     }
     .heading{
         font-size: 2rem;
     }   
-    .main .row{
+    .main11 .row11{
         flex-direction: column;
     }
-    .card .id{
+    .card11 .id11{
         flex-direction: column;
         height: 10rem;
     }
-    .id .logo{
+    .id11 .logo11{
         width: 26%;
         height: 50%;
     }
     
 }
 @media screen and (max-width: 1025px){
-    .card{
+    .card11{
         width: 60%;
     }
       
-    .main .row{
+    .main11 .row11{
         flex-direction: column;
     }
-    .card .id{
+    .card11 .id11{
         flex-direction: column;
         height: 10rem;
     }
-    .id .logo{
+    .id11 .logo11{
         width: 20%;
         height: 60%;
     }
